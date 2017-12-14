@@ -25,10 +25,10 @@
   </LineStyle>
   <PolyStyle>
     <color>00AAAAAA</color>
-    <fill>1</fill>
-    <outline>1</outline>
+        <outline>1</outline>
   </PolyStyle>
 </Style>
+<styleUrl>#polygon_style</styleUrl>
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
