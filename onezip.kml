@@ -24,9 +24,8 @@
     <width>1</width>
   </LineStyle>
   <PolyStyle>
-    <color>7FAAAAAA</color>
-    <fill>1</fill>
-    <outline>1</outline>
+    <color>00AAAAAA</color>
+        <outline>1</outline>
   </PolyStyle>
 </Style>
 <Polygon>
