@@ -3,33 +3,16 @@
   <LineStyle>
     <color>ff000000</color>
     <width>1</width>
-  </LineStyle>
+      </LineStyle>
   <PolyStyle>
     <color>00AAAAAA</color>
-        <outline>1</outline>
+    <fill>0</fill>
+    <outline>1</outline>
   </PolyStyle>
 </Style>
 <Placemark id="cb_2016_us_zcta510_500k.kml">
 <name>&lt;at&gt;&lt;openparen&gt;00601&lt;closeparen&gt;</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>00601</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US00601</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>00601</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>166659884</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>799293</td>
-</tr></table></center>]]></description>
-
-
 <styleUrl>#polygon_style</styleUrl>
 <Polygon>
 <extrude>0</extrude>
