@@ -26,5 +26,6 @@
 </LinearRing>
 </outerBoundaryIs>
 </Polygon>
-</Placemark>
+    </Placemark>
+  </Document>
 </kml>
