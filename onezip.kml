@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Style id="polygon_style">
+  <LineStyle>
+    <color>ff000000</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>00AAAAAA</color>
+        <outline>1</outline>
+  </PolyStyle>
+</Style>
 <Placemark id="cb_2016_us_zcta510_500k.kml">
 <name>&lt;at&gt;&lt;openparen&gt;00601&lt;closeparen&gt;</name>
 <visibility>1</visibility>
@@ -18,16 +28,8 @@
 <th>AWATER10</th>
 <td>799293</td>
 </tr></table></center>]]></description>
-<Style id="polygon_style">
-  <LineStyle>
-    <color>ff000000</color>
-    <width>1</width>
-  </LineStyle>
-  <PolyStyle>
-    <color>00AAAAAA</color>
-        <outline>1</outline>
-  </PolyStyle>
-</Style>
+
+
 <styleUrl>#polygon_style</styleUrl>
 <Polygon>
 <extrude>0</extrude>
