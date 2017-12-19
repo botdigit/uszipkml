@@ -18,4 +18,8 @@ NOTE :
       
       $python csvtopy.py  
       
-      to produce all those files again in kml_files directory again
+      to produce all those files again in kml_files directory
+
+# Remember don't run this program if the kml_directory contain anything. This service can be used when any file is deleted . In such case delete all files
+  in kml_files directory and run this program as specified above .
+  
