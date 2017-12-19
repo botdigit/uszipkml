@@ -18,16 +18,17 @@
 <th>AWATER10</th>
 <td>799293</td>
 </tr></table></center>]]></description>
-<styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2016_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">00601</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US00601</SimpleData>
-<SimpleData name="GEOID10">00601</SimpleData>
-<SimpleData name="ALAND10">166659884</SimpleData>
-<SimpleData name="AWATER10">799293</SimpleData>
-</SchemaData>
-</ExtendedData>
+<Style id="polygon_style">
+  <LineStyle>
+    <color>ff000000</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>7FAAAAAA</color>
+    <fill>1</fill>
+    <outline>1</outline>
+  </PolyStyle>
+</Style>
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
