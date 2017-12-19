@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="polygon_style">
+      <LineStyle>
+	<color>501400FF</color>
+	<width>5</width>
+      </LineStyle>
+      <PolyStyle>
+	<color>00AAAAAA</color>
+	<fill>0</fill>
+	<outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark id="cb_2016_us_zcta510_500k.kml">
+      <name>&lt;at&gt;&lt;openparen&gt;00601&lt;closeparen&gt;</name>
+      <visibility>1</visibility>
+      <styleUrl>#polygon_style</styleUrl>
+<MultiGeometry>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-117.956394,34.154506,0.0 -117.957896,34.152548,0.0 -117.95315,34.152621,0.0 -117.953395,34.154164,0.0 -117.955487,34.155104,0.0 -117.956394,34.154506,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-117.985867,34.155165,0.0 -117.985425,34.151549,0.0 -117.983665,34.151514,0.0 -117.98208,34.150418,0.0 -117.981966,34.147825,0.0 -117.980208,34.146869,0.0 -117.975381,34.146914,0.0 -117.97538,34.143658,0.0 -117.964262,34.143618,0.0 -117.951284,34.143688,0.0 -117.951279,34.150741,0.0 -117.959637,34.152038,0.0 -117.95972,34.165159,0.0 -117.977525,34.165107,0.0 -117.977549,34.16143,0.0 -117.977558,34.155903,0.0 -117.983,34.15753,0.0 -117.985076,34.156727,0.0 -117.985867,34.155165,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>
