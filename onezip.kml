@@ -28,6 +28,7 @@
         <outline>1</outline>
   </PolyStyle>
 </Style>
+<styleUrl>#polygon_style</styleUrl>
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
