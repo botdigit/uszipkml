@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark id="cb_2016_us_zcta510_500k.kml">
+<name>&lt;at&gt;&lt;openparen&gt;90017&lt;closeparen&gt;</name>
+<visibility>1</visibility>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ZCTA5CE10</th>
+<td>90017</td>
+</tr><tr bgcolor="">
+<th>AFFGEOID10</th>
+<td>8600000US90017</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOID10</th>
+<td>90017</td>
+</tr><tr bgcolor="">
+<th>ALAND10</th>
+<td>1881078</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AWATER10</th>
+<td>0</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_cb_2016_us_zcta510_500k">
+<SimpleData name="ZCTA5CE10">90017</SimpleData>
+<SimpleData name="AFFGEOID10">8600000US90017</SimpleData>
+<SimpleData name="GEOID10">90017</SimpleData>
+<SimpleData name="ALAND10">1881078</SimpleData>
+<SimpleData name="AWATER10">0</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-118.275461,34.05188,0.0 -118.274313,34.051362,0.0 -118.271983,34.050311,0.0 -118.27101,34.051799,0.0 -118.269686,34.049277,0.0 -118.26654,34.047859,0.0 -118.261441,34.045817,0.0 -118.258206,34.043727,0.0 -118.256865,34.045163,0.0 -118.257926,34.045849,0.0 -118.253932,34.050176,0.0 -118.256081,34.051565,0.0 -118.257419,34.050134,0.0 -118.259321,34.052361,0.0 -118.25881,34.052816,0.0 -118.255897,34.056087,0.0 -118.256045,34.056183,0.0 -118.259378,34.058226,0.0 -118.267932,34.060871,0.0 -118.270822,34.058357,0.0 -118.275461,34.05188,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</kml>

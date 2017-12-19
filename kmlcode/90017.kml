@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="polygon_style">
+      <LineStyle>
+	<color>501400FF</color>
+	<width>5</width>
+      </LineStyle>
+      <PolyStyle>
+	<color>00AAAAAA</color>
+	<fill>0</fill>
+	<outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark id="cb_2016_us_zcta510_500k.kml">
+      <name>&lt;at&gt;&lt;openparen&gt;00601&lt;closeparen&gt;</name>
+      <visibility>1</visibility>
+      <styleUrl>#polygon_style</styleUrl>
+      <Polygon>
+	<extrude>0</extrude>
+	<tessellate>1</tessellate>
+	<altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs>
+	  <LinearRing>
+<coordinates>-118.275461,34.05188,0.0 -118.274313,34.051362,0.0 -118.271983,34.050311,0.0 -118.27101,34.051799,0.0 -118.269686,34.049277,0.0 -118.26654,34.047859,0.0 -118.261441,34.045817,0.0 -118.258206,34.043727,0.0 -118.256865,34.045163,0.0 -118.257926,34.045849,0.0 -118.253932,34.050176,0.0 -118.256081,34.051565,0.0 -118.257419,34.050134,0.0 -118.259321,34.052361,0.0 -118.25881,34.052816,0.0 -118.255897,34.056087,0.0 -118.256045,34.056183,0.0 -118.259378,34.058226,0.0 -118.267932,34.060871,0.0 -118.270822,34.058357,0.0 -118.275461,34.05188,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+    </Placemark>
+  </Document>
+</kml>

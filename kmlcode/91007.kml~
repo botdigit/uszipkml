@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark id="cb_2016_us_zcta510_500k.kml">
+<name>&lt;at&gt;&lt;openparen&gt;91007&lt;closeparen&gt;</name>
+<visibility>1</visibility>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ZCTA5CE10</th>
+<td>91007</td>
+</tr><tr bgcolor="">
+<th>AFFGEOID10</th>
+<td>8600000US91007</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEOID10</th>
+<td>91007</td>
+</tr><tr bgcolor="">
+<th>ALAND10</th>
+<td>14397336</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AWATER10</th>
+<td>13098</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_cb_2016_us_zcta510_500k">
+<SimpleData name="ZCTA5CE10">91007</SimpleData>
+<SimpleData name="AFFGEOID10">8600000US91007</SimpleData>
+<SimpleData name="GEOID10">91007</SimpleData>
+<SimpleData name="ALAND10">14397336</SimpleData>
+<SimpleData name="AWATER10">13098</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-118.069034,34.131398,0.0 -118.069319,34.130649,0.0 -118.067888,34.130726,0.0 -118.06729,34.125355,0.0 -118.068174,34.124095,0.0 -118.068047,34.120399,0.0 -118.063749,34.120996,0.0 -118.062986,34.117172,0.0 -118.059716,34.117449,0.0 -118.058253,34.118111,0.0 -118.058131,34.117087,0.0 -118.056393,34.117256,0.0 -118.055682,34.113861,0.0 -118.054209,34.113694,0.0 -118.053293,34.109568,0.0 -118.051534,34.104304,0.0 -118.047271,34.104932,0.0 -118.046966,34.103231,0.0 -118.045798,34.103201,0.0 -118.045441,34.101442,0.0 -118.041614,34.101989,0.0 -118.042347,34.104531,0.0 -118.040605,34.104871,0.0 -118.040434,34.105933,0.0 -118.038125,34.105777,0.0 -118.034795,34.106669,0.0 -118.033622,34.105814,0.0 -118.031018,34.106401,0.0 -118.030768,34.107182,0.0 -118.03086,34.109492,0.0 -118.032142,34.110722,0.0 -118.030881,34.110719,0.0 -118.031424,34.140048,0.0 -118.03526,34.140005,0.0 -118.032692,34.142043,0.0 -118.032724,34.143503,0.0 -118.031512,34.144349,0.0 -118.033284,34.145479,0.0 -118.03155,34.146428,0.0 -118.031575,34.147733,0.0 -118.038101,34.148392,0.0 -118.042403,34.149055,0.0 -118.067785,34.148903,0.0 -118.067468,34.131509,0.0 -118.069034,34.131398,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</kml>
